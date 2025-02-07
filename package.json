@@ -27,7 +27,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@in5net/prettier-config": "^1.4.0",
+    "@in5net/prettier-config": "^1.4.2",
     "bumpp": "^9.8.1",
     "tsup": "^8.3.5",
     "typescript": "^5.6.3"

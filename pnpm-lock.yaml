@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       '@in5net/prettier-config':
-        specifier: ^1.4.0
+        specifier: ^1.4.2
         version: 1.4.2(prettier@3.4.2)(svelte@5.19.9)
       bumpp:
         specifier: ^9.8.1
