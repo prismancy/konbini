@@ -1,5 +1,5 @@
 {
-  "name": "@iz7n/konbini",
+  "name": "@in5net/konbini",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@9.13.2",
@@ -19,7 +19,7 @@
   "files": [
     "dist"
   ],
-  "prettier": "@iz7n/prettier-config",
+  "prettier": "@in5net/prettier-config",
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --clean --dts",
     "prepack": "nr build",
@@ -27,7 +27,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@iz7n/prettier-config": "^1.4.0",
+    "@in5net/prettier-config": "^1.4.0",
     "bumpp": "^9.8.1",
     "tsup": "^8.3.5",
     "typescript": "^5.6.3"

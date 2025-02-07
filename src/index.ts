@@ -3,7 +3,7 @@
  * A simple single-like reactive store that can be used in Svelte
  * @example
  * ```ts
- * import { konbini, computed, from } from "@iz7n/konbini";
+ * import { konbini, computed, from } from "@in5net/konbini";
  *
  * const count = konbini(0);
  * const doubled = computed(() => count() * 2);
