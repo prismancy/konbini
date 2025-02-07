@@ -1,7 +1,7 @@
 {
   "name": "@in5net/konbini",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "pnpm@9.13.2",
   "description": "Convenient stores",
   "license": "Apache-2.0",
